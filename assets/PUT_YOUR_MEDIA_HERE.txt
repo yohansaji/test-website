@@ -1,0 +1,3 @@
+Drop compressed photos, videos, and audio clips here.
+Name them to match whatever you put in each day's "media" list in days/day-XX.json,
+e.g. assets/day05-photo.jpg, assets/day12-video.mp4, assets/day18-voice.m4a
