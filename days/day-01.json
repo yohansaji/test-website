@@ -2,5 +2,5 @@
   "day": 1,
   "passcode": "yoyo",
   "message": "Let us start with the first picture we took - day 1",
-  "media": ["assets/1.PNG", "assets/2.PNG","assets/3.jpeg", "assets/4.jpeg"]
+  "media": ["assets/1.jpg", "assets/2.jpg","assets/3.jpeg", "assets/4.jpeg"]
 }
