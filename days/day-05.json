@@ -1,6 +1,6 @@
 {
   "day": 5,
-  "passcode": "changeme-05",
-  "message": "[Write today's message here - day 5]",
-  "media": []
+  "passcode": "forever",
+  "message": "Nothing much. Just a clingy audio clip",
+  "media": ["assets/Call recording 22-Aug-2024.mp3"]
 }
